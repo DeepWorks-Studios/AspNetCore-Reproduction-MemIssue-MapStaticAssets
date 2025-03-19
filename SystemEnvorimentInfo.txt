@@ -1,0 +1,48 @@
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Product ID:                00330-80000-00000-AA070
+Original Install Date:     06/07/2024, 16:05:37
+System Boot Time:          19/03/2025, 00:47:41
+System Manufacturer:       Dell Inc.
+System Model:              G3 3579
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2208 Mhz
+BIOS Version:              Dell Inc. 1.25.0, 12/04/2023
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             de;German (Germany)
+Input Locale:              de;German (Germany)
+Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Total Physical Memory:     32,610 MB
+Available Physical Memory: 23,325 MB
+Virtual Memory: Max Size:  55,138 MB
+Virtual Memory: Available: 45,489 MB
+Virtual Memory: In Use:    9,649 MB
+Page File Location(s):     C:\pagefile.sys
+Hotfix(s):                 20 Hotfix(s) Installed.
+                           [01]: KB5050576
+                           [02]: KB5039867
+                           [03]: KB5011048
+                           [04]: KB5011054
+                           [05]: KB5015684
+                           [06]: KB5053606
+                           [07]: KB5014032
+                           [08]: KB5032907
+                           [09]: KB5037995
+                           [10]: KB5039336
+                           [11]: KB5040565
+                           [12]: KB5041579
+                           [13]: KB5041581
+                           [14]: KB5043935
+                           [15]: KB5043130
+                           [16]: KB5046823
+                           [17]: KB5050388
+                           [18]: KB5050111
+                           [19]: KB5052916
+                           [20]: KB5034441
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

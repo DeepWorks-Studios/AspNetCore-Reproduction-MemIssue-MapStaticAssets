@@ -1,0 +1,86 @@
+Name	Latest Value
+ + 	
+| - Connection Queue Length	0
+| - Connection Rate	0
+| - Current Connections	1
+| - Current TLS Handshakes	0
+| - Current Upgraded Requests (WebSockets)	0
+| - Failed TLS Handshakes	2
+| - Request Queue Length	0
+| - TLS Handshake Rate	0
+| - Total Connections	5
+| - Total TLS Handshakes	5
+ + 	
+| - Current Requests	0
+| - Failed Requests	0
+| - Request Rate	1
+| - Total Requests	25
+ + 	
+| - Average Connection Duration	0
+| - Current Connections	0
+| - Total Connections Started	1
+| - Total Connections Stopped	1
+| - Total Connections Timed Out	0
+ + 	
+| - Current Http 1.1 Connections	1
+| - Current Requests	0
+| - HTTP 1.1 Requests Queue Duration	0
+| - HTTP 2.0 Requests Queue Duration	0
+| - HTTP 3.0 Requests Queue Duration	0
+| - Requests Failed	0
+| - Requests Failed Rate	0
+| - Requests Started	4
+| - Requests Started Rate	1
+ + 	
+| - Average DNS Lookup Duration	0
+| - Current DNS Lookups	0
+| - DNS Lookups Requested	2
+ + 	
+| - All TLS Sessions Active	1
+| - Current TLS handshakes	0
+| - TLS 1.0 Handshake Duration	0
+| - TLS 1.0 Sessions Active	0
+| - TLS 1.1 Handshake Duration	0
+| - TLS 1.1 Sessions Active	0
+| - TLS 1.2 Handshake Duration	0
+| - TLS 1.2 Sessions Active	1
+| - TLS 1.3 Handshake Duration	0
+| - TLS 1.3 Sessions Active	0
+| - TLS Handshake Duration	0
+| - TLS handshakes completed	0
+| - Total TLS handshakes completed	5
+| - Total TLS handshakes failed	2
+ + 	
+| - Bytes Received	167,57 K
+| - Bytes Sent	628,09 K
+| - Current Outgoing Connect Attempts	0
+| - Datagrams Received	0
+| - Datagrams Sent	0
+| - Incoming Connections Established	5
+| - Outgoing Connections Established	2
+ + 	
+| - % Time in GC since last GC	0%
+| - Allocation Rate	16 KiB
+| - CPU Usage	0%
+| - Exception Count	0
+| - GC Committed Bytes	38,82 MiB
+| - GC Fragmentation	19,80%
+| - GC Heap Size	37,95 MiB
+| - Gen 0 GC Count	0
+| - Gen 0 Size	0 B
+| - Gen 1 GC Count	0
+| - Gen 1 Size	6,37 MiB
+| - Gen 2 GC Count	0
+| - Gen 2 Size	1,36 MiB
+| - IL Bytes Jitted	816,54 KiB
+| - LOH Size	11,86 MiB
+| - Monitor Lock Contention Count	0
+| - Number of Active Timers	3
+| - Number of Assemblies Loaded	160
+| - Number of Methods Jitted	9,59 K
+| - POH (Pinned Object Heap) Size	23,95 KiB
+| - ThreadPool Completed Work Item Count	2
+| - ThreadPool Queue Length	0
+| - ThreadPool Thread Count	11
+| - Time spent in JIT	1,28
+| - Working Set	145,53 MiB

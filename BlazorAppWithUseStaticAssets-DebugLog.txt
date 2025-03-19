@@ -1,0 +1,183 @@
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Private.CoreLib.dll'. Symbols loaded.
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'D:\DeepWorks Studios\Projects\AspNetCore-Reproduction-MemIssue-MapStaticAssets\BlazorAppWithUseStaticAssets\BlazorAppWithUseStaticAssets\bin\Debug\net9.0\BlazorAppWithUseStaticAssets.dll'. Symbols loaded.
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Runtime.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\preview\common7\ide\extensions\microsoft\web tools\projectsystem\net7.0\Microsoft.WebTools.ApiEndpointDiscovery.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Linq.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Collections.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\9.0.200\DotnetTools\dotnet-watch\9.0.200-rtm.25073.12\tools\net9.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\preview\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.IO.Pipes.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Console.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Threading.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Runtime.InteropServices.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Threading.Overlapped.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Security.AccessControl.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Security.Principal.Windows.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Security.Claims.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Runtime.Loader.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Collections.Concurrent.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Hosting.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Diagnostics.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Http.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Routing.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.ComponentModel.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Features.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Components.Endpoints.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Components.Server.dll'. Symbols loaded.
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'D:\DeepWorks Studios\Projects\AspNetCore-Reproduction-MemIssue-MapStaticAssets\BlazorAppWithUseStaticAssets\BlazorAppWithUseStaticAssets\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Hosting.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Diagnostics.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.HttpsPolicy.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Antiforgery.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.StaticFiles.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Components.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'D:\DeepWorks Studios\Projects\AspNetCore-Reproduction-MemIssue-MapStaticAssets\BlazorAppWithUseStaticAssets\BlazorAppWithUseStaticAssets\bin\Debug\net9.0\BlazorAppWithUseStaticAssets.Client.dll'. Symbols loaded.
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Primitives.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Hosting.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Hosting.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.FileProviders.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.FileProviders.Physical.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.FileExtensions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Options.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Diagnostics.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Diagnostics.DiagnosticSource.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.Binder.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.Json.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Memory.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.IO.FileSystem.Watcher.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.ComponentModel.Primitives.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\Microsoft.Win32.Primitives.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Text.Json.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Text.Encoding.Extensions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Configuration.UserSecrets.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.EventLog.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.Configuration.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.Console.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.Debug.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Logging.EventSource.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Diagnostics.Tracing.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.DependencyInjection.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.Kestrel.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.Quic.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.Sockets.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.Primitives.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.IIS.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.IISIntegration.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.FileProviders.Composite.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Text.Encodings.Web.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Runtime.Intrinsics.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Numerics.Vectors.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Http.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Mvc.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Mvc.Core.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Connections.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.ObjectPool.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.HostFiltering.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.HttpOverrides.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Routing.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.ObjectModel.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Components.Authorization.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Components.Web.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.JSInterop.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.DataProtection.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.DataProtection.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Cryptography.Internal.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.SignalR.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.SignalR.Core.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Caching.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.SignalR.Common.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.WebSockets.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Http.Connections.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Authorization.Policy.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Authorization.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.SignalR.Protocols.Json.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\netstandard.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\IntelliTrace\Microsoft.IntelliTrace.TelemetryObserver.Common.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\IntelliTrace\Microsoft.IntelliTrace.TelemetryObserver.CoreClr.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Reflection.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Reflection.Extensions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Threading.Thread.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\System.Diagnostics.EventLog.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Collections.Specialized.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.ComponentModel.TypeConverter.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.IO.Pipelines.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Threading.ThreadPool.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Reflection.Emit.Lightweight.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Reflection.Emit.ILGeneration.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Reflection.Primitives.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\Microsoft.Win32.Registry.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Http.Features.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Security.Cryptography.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.WebUtilities.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.StaticAssets.dll'. 
+Microsoft.AspNetCore.Components.WebAssembly.Server.WebAssemblyComponentsEndpointOptions: Warning: Mapped static asset endpoints not found. Ensure 'MapStaticAssets' is called before 'AddInteractiveWebAssemblyRenderMode'.
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Xml.XDocument.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Private.Xml.Linq.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Private.Xml.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.IO.MemoryMappedFiles.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Runtime.Extensions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Private.Uri.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Authentication.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.FileProviders.Embedded.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Xml.ReaderWriter.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Http.Connections.Common.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Metadata.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Linq.Expressions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Threading.Channels.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Http.Extensions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.Caching.Memory.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Extensions.FileSystemGlobbing.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.Net.Http.Headers.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.Http.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Collections.NonGeneric.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.Security.dll'. 
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:7284
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5012
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: D:\DeepWorks Studios\Projects\AspNetCore-Reproduction-MemIssue-MapStaticAssets\BlazorAppWithUseStaticAssets\BlazorAppWithUseStaticAssets
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Verbose logs are written to:
+C:\Users\deepw\AppData\Local\Temp\visualstudio-js-debugger.txt
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.WebSockets.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Threading.Tasks.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Web.HttpUtility.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Text.RegularExpressions.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Diagnostics.Process.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Net.NameResolution.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.2\System.Collections.Immutable.dll'. 
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.Html.Abstractions.dll'. 
+CSS Hot Reload ignoring https://localhost:7284/lib/bootstrap/dist/css/bootstrap.min.css because it was inaccessible or had more than 7000 rules.
+'BlazorAppWithUseStaticAssets.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.2\Microsoft.AspNetCore.DataProtection.Extensions.dll'. 
+[2025-03-18T23:22:47.308Z] Information: Normalizing '_blazor' to 'https://localhost:7284/_blazor'.
+[2025-03-18T23:22:47.346Z] Information: WebSocket connected to wss://localhost:7284/_blazor?id=v-kq6o6HFcy3RkjlMqQ9Rw.
+[0m[48;5;127m[38;5;231mdotnet[0m[1m Loaded 8.77 MB resources[0m
+This application was built with linking (tree shaking) disabled. 
+Published applications will be significantly smaller if you install wasm-tools workload. 
+See also https://aka.ms/dotnet-wasm-features[0m
+Loaded 8.75 MB resources from cache
+Loaded 0.01 MB resources from network
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+[2025-03-18T23:22:55.420Z] Information: Connection disconnected.
